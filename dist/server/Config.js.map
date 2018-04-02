@@ -1,0 +1,1 @@
+{"version":3,"sources":["server/Config.ts"],"names":["Config","module","exports"],"mappings":"aAAA,IAAAA,OAAA,aAIAC,OAAAC,QAASF","file":"Config.js","sourcesContent":["class Config {\r\n\r\n}\r\n\r\nexport = Config;"]}

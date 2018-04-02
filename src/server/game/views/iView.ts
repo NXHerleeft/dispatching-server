@@ -1,0 +1,5 @@
+interface iView {
+
+}
+
+export = iView;

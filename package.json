@@ -1,0 +1,29 @@
+{
+  "name": "dispatching-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-typescript": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "typescript": "^2.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://phochs@github.com/NXHerleeft/dispatching-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NXHerleeft/dispatching-server/issues"
+  },
+  "homepage": "https://github.com/NXHerleeft/dispatching-server#readme"
+}

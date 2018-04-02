@@ -1,0 +1,1 @@
+{"version":3,"sources":["server/http/HTTPServer.ts"],"names":["HTTPServer","module","exports"],"mappings":"aAEA,IAAAA,WAAA,aAIAC,OAAAC,QAASF","file":"HTTPServer.js","sourcesContent":["import Sockets = require(\"./Sockets\");\r\n\r\nclass HTTPServer {\r\n    sockets: Sockets;\r\n}\r\n\r\nexport = HTTPServer;"]}

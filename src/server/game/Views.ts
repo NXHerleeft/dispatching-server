@@ -1,0 +1,5 @@
+class Views {
+
+}
+
+export = Views;

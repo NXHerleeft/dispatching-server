@@ -7,6 +7,6 @@ class ConnectionStatus {
         return false;
     }
 
-    toArray() {
+    toArray(): void {
     }
 }

@@ -1,0 +1,1 @@
+{"version":3,"sources":["server/game/Logging.ts"],"names":["Logging","module","exports"],"mappings":"aAAA,IAAAA,QAAA,aAIAC,OAAAC,QAASF","file":"Logging.js","sourcesContent":["class Logging {\r\n\r\n}\r\n\r\nexport = Logging;"]}

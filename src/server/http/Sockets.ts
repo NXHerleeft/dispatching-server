@@ -1,0 +1,5 @@
+class Sockets {
+
+}
+
+export = Sockets;

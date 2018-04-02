@@ -1,0 +1,1 @@
+{"version":3,"sources":["server/Loader.ts"],"names":["Loader","module","exports"],"mappings":"aAAA,IAAAA,OAAA,aAIAC,OAAAC,QAASF","file":"Loader.js","sourcesContent":["class Loader {\r\n\r\n}\r\n\r\nexport = Loader;"]}

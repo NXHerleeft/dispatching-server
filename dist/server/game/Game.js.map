@@ -1,0 +1,1 @@
+{"version":3,"sources":["server/game/Game.ts"],"names":["Game","module","exports"],"mappings":"aAAA,IAAAA,KAAA,aAIAC,OAAAC,QAASF","file":"Game.js","sourcesContent":["class Game {\r\n\r\n}\r\n\r\nexport = Game;"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["server/game/views/View.ts"],"names":["View","module","exports"],"mappings":"aAGA,IAAAA,KAAA,aAIAC,OAAAC,QAASF","file":"View.js","sourcesContent":["import iView = require(\"./iView\");\r\nimport HTTPInterface = require(\"../HTTPInterface\");\r\n\r\nclass View implements iView {\r\n    HTTPInterface: HTTPInterface;\r\n}\r\n\r\nexport = View;"]}

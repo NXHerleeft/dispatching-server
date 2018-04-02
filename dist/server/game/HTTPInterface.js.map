@@ -1,0 +1,1 @@
+{"version":3,"sources":["server/game/HTTPInterface.ts"],"names":["HTTPInterface","module","exports"],"mappings":"aAAA,IAAAA,cAAA,aAIAC,OAAAC,QAASF","file":"HTTPInterface.js","sourcesContent":["class HTTPInterface {\r\n\r\n}\r\n\r\nexport = HTTPInterface;"]}

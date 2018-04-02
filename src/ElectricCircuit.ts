@@ -1,3 +1,5 @@
 class ElectricCircuit {
 
 }
+
+export = ElectricCircuit;
